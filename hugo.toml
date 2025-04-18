@@ -4,7 +4,7 @@ title = "S. C. Arzehd's Blog"
 theme = "hugo-coder"
 
 [params]
-author = "Ezra S. C. Balden / S. C. Arzehd"
+author = "S. C. Arzehd"
 info = ["Student at Some University Somewhere, Probably", "Aspiring Game Developer"]
 avatarurl = "/images/arzehd_flames.jpg"
 colorScheme = "dark"
