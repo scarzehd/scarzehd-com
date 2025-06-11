@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 [params]
 author = "S. C. Arzehd"
-info = ["Student at Some University Somewhere, Probably", "Aspiring Game Developer"]
+info = ["Aspiring Game Developer"]
 avatarurl = "/images/arzehd_flames.jpg"
 colorScheme = "dark"
 since = 2024
