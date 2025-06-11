@@ -1,8 +1,5 @@
 # Hey There!
 
-The name's Ezra, but no one calls me that. Especially not you.
-You can call me Scarz, Scarzehd, or Arzehd.
-
 I make wacky stuff for no reason.
 Except sometimes I don't.
 
