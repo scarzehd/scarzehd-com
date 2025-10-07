@@ -1,10 +1,10 @@
 baseURL = "https://scarzehd.com/"
 languageCode = "en-us"
-title = "S. C. Arzehd's Blog"
+title = "scarzehd.com"
 theme = "hugo-coder"
 
 [params]
-author = "S. C. Arzehd"
+author = "scarzehd"
 info = ["Aspiring Game Developer"]
 avatarurl = "/images/arzehd_flames.jpg"
 colorScheme = "dark"
@@ -28,12 +28,17 @@ icon = "fa-brands fa-itch-io fa-2x"
 weight = 2
 url = "https://scarzehd.itch.io"
 
-[[menu.main]]
-name = "Blog"
-weight = 1
-url = "/posts"
+# [[menu.main]]
+# name = "Blog"
+# weight = 1
+# url = "/posts"
 
 [[menu.main]]
 name = "About"
 weight = 2
 url = "about/"
+
+[[menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
