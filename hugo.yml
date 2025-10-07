@@ -1,0 +1,9 @@
+baseURL: https://scarzehd.com/
+languageCode: en-us
+title: scarzehd.com
+theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    imageUrl: "/images/arzehd_flames_v2.png"
+    title: scarzehd
